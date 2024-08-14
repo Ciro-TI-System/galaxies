@@ -8,7 +8,7 @@ Galaxies
 
 <br>
 
-  <img src=".github/preview.png">
+  <img src=".github/Galaxies.jpg">
 
 <br>
 
