@@ -24,7 +24,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 🎨 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](#). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1256354736253234634). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 <br>
 
